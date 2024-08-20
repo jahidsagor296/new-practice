@@ -1,0 +1,30 @@
+h1{
+    font-size: 40px;
+    background-color: aqua;
+    width: 40%;
+    text-decoration: overline;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; ;
+}
+.second{
+   
+}
+.blog{
+    margin: 20px;
+    border: 24px solid black;
+    box-shadow: 20px 30px 10px red ;
+    width: 40%;
+  }
+    .accusantium{
+        border: 3px solid yellow;
+        width: 40%;
+        display: block;
+    }
+    .header{
+        height: 400px;
+        background-color: blanchedalmond;
+        background-image: url('girgiti.jpg');
+        background-repeat:contain;
+        background-size: 1110px;
+        background-image: url('../istockphoto-1304533439-1024x1024.jpg');
+    
+    }
